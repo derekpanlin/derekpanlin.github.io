@@ -12,13 +12,8 @@
 @import "./global.scss";
 
 // Components
-@import "./components/sidebar.scss";
-@import "./components/buttons.scss";
+@import "./components/sidenav.scss";
+@import "./components/icons.scss";
 
 // Sections
-@import "./sections/cta.scss";
-@import "./sections/footer.scss";
-@import "./sections/map.scss";
-@import "./sections/masthead.scss";
-@import "./sections/portfolio.scss";
-@import "./sections/services.scss";
+@import "./sections/resume-section.scss";

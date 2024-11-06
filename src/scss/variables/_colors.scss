@@ -2,12 +2,14 @@
 // Colors
 // 
 
+// Pre-state grayscale colors used in other variables
+
+$gray-800: #343a40;
+
 // Override Bootstrap color system
 
-$blue: #1D809F;
-$yellow: #ecb807;
+$orange: #bd5d38;
 
 // Override Bootstrap default state colors
 
-$primary: $blue;
-$secondary: $yellow;
+$primary: $orange;
